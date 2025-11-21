@@ -4,6 +4,7 @@
 ６×６マスのリバーシのプログラムです。
 
 GoogleColabで制作しました。
+作品のGoogleColabはこちらです https://colab.research.google.com/drive/1Jayu9poRDEZyXSRxKKn4y5WaDbUrSo5A?hl=ja
 
 最初の白と黒の設定はランダムで決まります
 
